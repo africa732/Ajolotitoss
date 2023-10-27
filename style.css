@@ -1,0 +1,56 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+header{
+    background-image: url("https://images.vexels.com/content/269935/preview/axolotl-kawaii-pattern-design-16b43e.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+} 
+img{
+    width: 200px; 
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+h1{
+    text-align: center;
+    color: black;
+    background-color: beige;
+}
+h2{
+    text-align: center;
+    color: #000;
+    
+}
+.card{
+    text-align: center;
+    margin-left: 500px;
+}
+label{
+    text-align: center;
+    margin-left: 350px;
+
+
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    text-size-adjust: 14px;
+    text-anchor: middle;
+}
+h3{
+    text-align: center;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    text-size-adjust: 14px;
+    text-anchor: middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
